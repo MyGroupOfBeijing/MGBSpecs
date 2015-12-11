@@ -1,2 +1,0 @@
-# MGBSpecs
-custom cocoapods specs
